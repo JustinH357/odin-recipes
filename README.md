@@ -1,2 +1,2 @@
 # odin-recipes
-Learning from OdinProjects
+Learning from OdinProjects.
