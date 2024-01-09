@@ -1,0 +1,31 @@
+.index_page,
+.fried_rice_page,
+.omelet_rice_page,
+.creamy_rice_page {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(54, 141, 141);
+}
+
+/* testing if rule orders are working properly for background color and font */
+.fried_rice_page {
+    /* font-family: 'Times New Roman'; */
+    background-color: red;
+}
+
+.omelet_rice_page {
+    /* font-family: 'Times New Roman'; */
+    background-color: yellow;
+}
+
+.creamy_rice_page {
+    /* font-family: 'Times New Roman'; */
+    background-color: white;
+}
+
+#unordered_list_style {
+    font-style: italic;
+}
+
+#ordered_list_style {
+    font-weight: bold;
+}
